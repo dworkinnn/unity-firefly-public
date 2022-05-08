@@ -45,6 +45,8 @@ namespace GeronimoGames.Firefly.Game
 
         private void Awake()
         {
+            Application.targetFrameRate = 90;
+
             preloaderView.Render(() => SetGameState(GameState.Opening));
         }
 
