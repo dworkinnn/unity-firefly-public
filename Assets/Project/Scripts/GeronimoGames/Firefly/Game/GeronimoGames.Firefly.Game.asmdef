@@ -1,0 +1,19 @@
+{
+    "name": "GeronimoGames.Firefly.Game",
+    "rootNamespace": "GeronimoGames.Firefly.Game",
+    "references": [
+        "GUID:aacf7fef9d880494ea3f5488d873c2ab",
+        "GUID:7306f7a83ea6b49638ea7f3a8bb2945e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "GeronimoGames.Firefly.Models",
+  "rootNamespace": "GeronimoGames.Firefly.Models",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
