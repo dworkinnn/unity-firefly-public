@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-b465f44c97.gif" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1D7PZhT3LwcK9HaUDkvHBq7_2uJSbiEmS" width="300"/>
 </p>
 
 #### Platforms ####
